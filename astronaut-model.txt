@@ -1,0 +1,22 @@
+Astronauts
+------
++ name: str
++ year: int
++ group: int
++ status: str
++ birth date: str
++ birth place: str
++ gender: str
++ alma mater: str
++ undergrad major: str
++ grad major: str
++ military rank: str
++ military branch: str
++ space flights: int
++ space flight (hr): int
++ space walks: int
++ space walks (hr): int
++ missions: str
++ death date: str
++ death mission: str
+------
